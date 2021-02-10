@@ -1,0 +1,25 @@
+A=[]
+parola1=input("Inserisci parola 1: ")
+A.append(parola1)
+parola2=input("Inserisci parola 2: ")
+A.append(parola2)
+parola3=input("Inserisci parola 3: ")
+A.append(parola3)
+parola4=input("Inserisci parola 4: ")
+A.append(parola4)
+parola5=input("Inserisci parola 5: ")
+A.append(parola5)
+
+len(parola1)
+len(parola2)
+len(parola3)
+len(parola4)
+len(parola5)
+
+B=[]
+B.append(len(parola1))
+B.append(len(parola2))
+B.append(len(parola3))
+B.append(len(parola4))
+B.append(len(parola5))
+print(B)
